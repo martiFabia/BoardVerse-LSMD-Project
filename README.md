@@ -19,7 +19,7 @@ flexible management of documents and **Neo4j** to represent relationships
 between users, games and tournaments in an advanced way.
 
 ## 📄 Complete Documentation
-For a detailed description of the project please refer to the [**Doc_BoardVerse**](./Doc_BoardVerse.pdf) file.
+For a detailed description of the project please refer to the [**Doc_BoardVerse**](./Doc.BoardVerse.pdf) file.
 
 ## Authors
 - **Martina Fabiani**
